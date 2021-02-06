@@ -15,8 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ... 最近JSしか書いてないのでGoあたりべんきょしたい。  
-
 #### Languages
 [![](https://img.shields.io/badge/-Javascript-666666.svg?logo=JavaScript&style=for-the-badge)](https://developer.mozilla.org/ja/docs/Web/JavaScript)
 [![](https://img.shields.io/badge/-Python-666666.svg?logo=python&style=for-the-badge)](https://www.python.org/)
