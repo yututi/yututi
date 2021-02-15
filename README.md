@@ -31,39 +31,39 @@ Here are some ideas to get you started:
 <details>
   <summary>Skill Stack</summary>
 
-  #### Frontend stack
+  #### Frontend
   1. Vue.js
   1. React.js
   1. JQuery
 
-  #### Backend stack
+  #### Backend
   1. Spring Boot
   1. Node.js
   1. Django
 
-  #### Frontent devtool stack
+  #### Frontent devtool
   1. Webpack
   1. Eslint
   1. Babel
 
-  #### Native app stack
+  #### Native app
   1. Flutter(just a little)
   
-  #### Test stack
+  #### Test tool
   1. Junit
   1. Jest
 
   #### CI/CD
   1. Github Action
 
-  #### Persistence stack
+  #### Persistence framework
   1. Several RDB
 
   #### Favorite platforms
   1. Firebase
   1. Google Cloud Plattform
 
-  #### IDE
+  #### Favorite IDE
   1. VSCode
 
 </details>
