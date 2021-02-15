@@ -34,6 +34,7 @@ Here are some ideas to get you started:
   #### Frontend stack
   1. Vue.js
   1. React.js
+  1. JQuery
 
   #### Backend stack
   1. Spring Boot
