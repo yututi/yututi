@@ -44,10 +44,13 @@ Here are some ideas to get you started:
   1. Webpack
   1. Eslint
   1. Babel
-  1. Jest
 
   #### Native app stack
   1. Flutter(just a little)
+  
+  #### Test stack
+  1. Junit
+  1. Jest
 
   #### CI/CD
   1. Github Action
