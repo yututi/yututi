@@ -25,7 +25,7 @@ Here are some ideas to get you started:
   [![](https://img.shields.io/badge/-Python-666666.svg?logo=python&style=for-the-badge)](https://www.python.org/)
   [![](https://img.shields.io/badge/-Kotlin-666666.svg?logo=kotlin&style=for-the-badge)](https://developer.android.com/kotlin)
   [![](https://img.shields.io/badge/-dart-666666.svg?logo=dart&style=for-the-badge)](https://dart.dev/)
-
+<!--
 <details>
   <summary>Skill Stack</summary>
 
@@ -65,7 +65,7 @@ Here are some ideas to get you started:
   1. VSCode
 
 </details>
-
+-->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yututi&hide=html)](https://github.com/anuraghazra/github-readme-stats)
