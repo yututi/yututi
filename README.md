@@ -17,7 +17,23 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... Dart/Flutter
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yututi&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
+</td>
+<td valign="top" width="50%">
+
+
+<!-- qiita-box start -->  
+<!-- qiita-box end -->
+
+
+</td>
+</tr>
+</table>
 
 <details>
   <summary>使える言語</summary>
@@ -75,6 +91,3 @@ Here are some ideas to get you started:
 
 </details>
 -->
-
-<!-- qiita-box start -->  
-<!-- qiita-box end -->
