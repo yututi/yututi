@@ -18,6 +18,8 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... Dart/Flutter
 
+---
+
 <!-- qiita-box start -->  
 📰 最近のQiita投稿記事  
 📅 2/18: [CustomElementsをVueで使う際の注意](https://qiita.com/yututi/items/6c5d3909b47c6a9e6e53)  
@@ -27,6 +29,7 @@ Here are some ideas to get you started:
 📅 2/17: [カスタム要素を使った、タブフォーカスの抑止](https://qiita.com/yututi/items/2de02c2e7f4fe003e577)  
 <!-- qiita-box end -->
 
+---
 
 <details>
   <summary>使える言語</summary>
