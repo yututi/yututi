@@ -18,16 +18,6 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning ... Dart/Flutter
 
-<table>
-<tr>
-<td valign="top" width="50%">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yututi&hide=html)](https://github.com/anuraghazra/github-readme-stats)
-
-</td>
-<td valign="top" width="50%">
-
-
 <!-- qiita-box start -->  
 📰 最近のQiita投稿記事  
 📅 2/18: [CustomElementsをVueで使う際の注意](https://qiita.com/yututi/items/6c5d3909b47c6a9e6e53)  
@@ -37,10 +27,6 @@ Here are some ideas to get you started:
 📅 2/17: [カスタム要素を使った、タブフォーカスの抑止](https://qiita.com/yututi/items/2de02c2e7f4fe003e577)  
 <!-- qiita-box end -->
 
-
-</td>
-</tr>
-</table>
 
 <details>
   <summary>使える言語</summary>
@@ -55,11 +41,13 @@ Here are some ideas to get you started:
   [![](https://img.shields.io/badge/-Kotlin-666666.svg?logo=kotlin&style=for-the-badge)](https://developer.android.com/kotlin)
   [![](https://img.shields.io/badge/-dart-666666.svg?logo=dart&style=for-the-badge)](https://dart.dev/)
 
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yututi&hide=html)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
-<!--
 <details>
-  <summary>Skill Stack</summary>
+  <summary>スキルスタック</summary>
 
   #### Frontend
   1. Vue.js
@@ -70,11 +58,6 @@ Here are some ideas to get you started:
   1. Spring Boot
   1. Node.js
   1. Django
-
-  #### Frontent devtool
-  1. Webpack
-  1. Eslint
-  1. Babel
 
   #### Native app
   1. Flutter(just a little)
@@ -97,4 +80,3 @@ Here are some ideas to get you started:
   1. VSCode
 
 </details>
--->
