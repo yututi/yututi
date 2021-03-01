@@ -32,5 +32,5 @@ jobs:
           git config --global user.name "Bot"
           git diff
           git add README.md
-          git commit -m "Update markdown file."
+          git diff-index --quiet HEAD || git commit -m "Update markdown file."
           git push
