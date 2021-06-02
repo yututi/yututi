@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🌱 I’m currently learning ... Dart/Flutter
+- 🌱 I’m currently learning ... React
 
 ---
 
