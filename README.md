@@ -62,18 +62,12 @@ Here are some ideas to get you started:
   1. Node.js
   1. Django
 
-  #### Native app
-  1. Flutter(just a little)
-  
   #### Test tool
   1. Junit
   1. Jest
 
   #### CI/CD
   1. Github Action
-
-  #### Persistence framework
-  1. Several RDB
 
   #### Favorite platforms
   1. Firebase
