@@ -49,31 +49,3 @@ Here are some ideas to get you started:
 
 </details>
 
-<details>
-  <summary>スキルスタック</summary>
-
-  #### Frontend
-  1. Vue.js
-  1. React.js
-  1. JQuery
-
-  #### Backend
-  1. Spring Boot
-  1. Node.js
-  1. Django
-
-  #### Test tool
-  1. Junit
-  1. Jest
-
-  #### CI/CD
-  1. Github Action
-
-  #### Favorite platforms
-  1. Firebase
-  1. Google Cloud Plattform
-
-  #### Favorite IDE
-  1. VSCode
-
-</details>
