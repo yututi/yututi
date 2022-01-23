@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning ... k8s
-- フルスタックエンジニアを目指していた広くて浅いエンジニア
 
 <!--
 **yututi/yututi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
