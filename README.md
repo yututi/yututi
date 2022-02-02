@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning ... k8s
+- 🌱 I’m currently learning ... Docker
 
 <!--
 **yututi/yututi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
