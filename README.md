@@ -31,7 +31,6 @@ Here are some ideas to get you started:
   - React
   - Vue
   - Spring Boot
-  - AWS
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yututi&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
